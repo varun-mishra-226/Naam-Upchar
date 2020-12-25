@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProcessFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_weight="1.25"
+            android:gravity="center"
+            android:text="भागवत कृपा नाम मंत्र पाने की विधी"
+            android:textColor="@color/colorText"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ScrollView
+            android:id="@+id/ScrollView01"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="15dp"
+            android:layout_weight="15"
+            android:background="@drawable/background1">
+
+            <TextView
+                android:id="@+id/tvAbout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/text_background_design"
+                android:padding="15dp"
+                android:text="1. “गुर कें बचन प्रतीति न जेही, सपनेहुँ सुगम न सुख सिधि तेही।”\nअर्थात जिसको गुरु के वचनों में विश्वास नहीं है, उसको सुख और सिद्धि स्वप्न में भी सुलभ नहीं हो सकती।\n\nइसलिए नाम मंत्र तभी लें अगर आपने दृढ़ता से इसका पालन करने का निश्चय कर लिया है।\n\n2. नाम मंत्र गुरुमुखी दान दिया जाता है।\n\n3. नाम मंत्र पाने के लिए 540 बार हरे कृष्ण महामंत्र लिखकर भेजना होगा। किसी भी साधारण काग़ज़ पर लिखकर, फ़ोटो खींचकर 9837009946 पर भेज दीजिए।\n\n4. नाम मंत्र भेजने के बाद आपको शीघ्र ही संदेश प्राप्त होगा जिसमें नाम मंत्र देने का समय बता दिया जाएगा।\n\n5. नाम मंत्र लेने से पहले संकल्प के लिए आवश्यक सामग्री पुष्प, चंदन, अक्षत (चावल), सुपारी, एक सिक्का एवं जल अपने पास रख लें।\n\n6. नाम मंत्र लिखने के लिए एक कापी पेन भी रख लें।\n"
+                android:textColor="@color/colorText"
+                android:textSize="20sp"
+                tools:layout_editor_absoluteX="131dp"
+                tools:layout_editor_absoluteY="163dp" />
+
+        </ScrollView>
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginBottom="15dp"
+            android:background="@color/colorOrange"
+            android:text="Register"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+</FrameLayout>

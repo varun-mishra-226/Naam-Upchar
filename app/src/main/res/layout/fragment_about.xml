@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#FFFFFF"
+    tools:context=".AboutFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_weight="1.25"
+            android:gravity="center"
+            android:text="नाम उपचार क्या है?"
+            android:textColor="@color/colorText"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ScrollView
+            android:id="@+id/ScrollView01"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="15dp"
+            android:layout_weight="15"
+            android:background="@drawable/background1">
+
+            <TextView
+                android:id="@+id/tvAbout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/text_background_design"
+                android:padding="15dp"
+                android:text="यह सर्वमान्य सत्य है कि सृष्टि की रचना स्वयं परमात्मा ने की है। भगवान यह बिल्कुल नहीं चाहते कि उनकी सृष्टि में कोई भी प्राणी कष्ट पाये, किंतु मनुष्य को अथवा प्रत्येक जीव को कर्म करने की पूर्ण स्वतंत्रता परमात्मा ने दी हुई है। यदि ऐसा नहीं करते तो भगवान पर निर्दयी, निरंकुश और क्रूर होने का आरोप लगता।\n\nइसीलिए भगवान ने प्रत्येक प्राणी को कर्म करने की पूर्ण स्वतंत्रता दी है जिसके निमित्त हमें दसों इंद्रियों और चारों अंतः करण से युक्त यह मानव शरीर प्रदान किया है! साथ ही भगवान क्योंकि इच्छा का अभाव होने के कारण स्वयं कर्म नहीं करते अपितु स्वयं अकर्ता रहकर ही संपूर्ण ब्रह्मांड का दिग्दर्शन करते हैं।\n\nइसीलिए भगवान निष्क्रिय होने के कारण ही प्रत्येक जीव से यह आग्रह करते हैं कि कोई उनसे अपेक्षा करें उनके नाम का गुणगान करें अपनी रक्षा हेतु अपनी सुरक्षा हेतु। इसके लिए भगवान ने अलग- अलग युगों में अलग- अलग विधियों का प्रावधान किया है। कृते यद् ध्यायतो विष्णुं त्रेतायां यजतो मखैः। द्वापरे परिचर्यायां कलौ तद्धरि कीर्तनात्।। (भाग0 12/3/52)\n\nकिंतु कलयुग में केवल नाम जप की विधि को ही भगवान ने शास्त्र सम्मत रूप से नियुक्त किया है। अतः जैसा काम वैसा ही उनके नाम का आश्रय यदि लिया जाए तो वह नाम ही हमारे समस्त रोग, शोक, भय, व्याधि को दूर करता है क्योंकि नाम जपने से एक प्रकार की इलेक्ट्रोमैग्नेटिक एनर्जी प्रकट होती है जो जिसे वातावरण में जल अथवा अन्य पंचमहाभूत अवशोषित कर लेती है।\n\nयही पंचमहाभूत शरीर के भीतर भी और बाहर भी विद्यमान है जिसके कारण शरीर के समस्त रोग, शोक, भय, बाधा नाम जप प्रभाव से उत्पन्न इस इलेक्ट्रोमैग्नेटिक एनर्जी के कारण वह पूर्ण स्वस्थ हो जाता है! इसी को नाम उपचार कहा गया है! अलग- अलग रोगों से अथवा मनोकामना की सिद्धि के लिए अलग- अलग नामों का प्रावधान किया गया है!\nहम केवल उन्हीं नामों को शास्त्रों से चुनकर आप तक पहुंचाने का कार्य कर रहे हैं। \n\nनाममन्त्र गुरुमुखी अनिवार्य-\n\nनाममन्त्र का प्रभाव केवल गुरुमुखी सुनकर ही प्राप्त होता है। बहुत से लोग आग्रह करते हैं कि आप हमें नाममन्त्र बतादो अथवा नाममन्त्र की पुस्तक भेज दो। किन्तु देखकर स्वयं जपने से प्रत्यक्ष फल प्राप्त नहीं होता। अतः इसे गुरुमुखी प्राप्त करने के लिए ही आपको दक्षिणा स्वरूप केवल 540 बार महामन्त्र लिखकर भेजना होता है। यह पूर्णतः निःशुल्क सेवा है।एक उदाहरण से समझ लीजिए- अरण्य कांड में श्रीराम से दो महिला मिलीं; एक सूर्पनखा और दूसरी शबरी। शबरी को नवधा भक्ति का उपदेश मिला जबकि सूर्पनखा को नाक कटानी पड़ी। दोनों को ही श्रीराम का दर्शन मिला तो इतना अंतर क्यों? क्योंकि शबरी गुरु(मतंग ऋषि की) आज्ञा से मिली जबकि सूर्पनखा बिना गुरु के। अतः भजनानंदी और सिद्ध गुरु के मुख से सुनकर ही जपें।\n\nजय श्री राधे।"
+                android:textColor="@color/colorText"
+                android:textSize="20sp"
+                tools:layout_editor_absoluteX="131dp"
+                tools:layout_editor_absoluteY="163dp" />
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</FrameLayout>
