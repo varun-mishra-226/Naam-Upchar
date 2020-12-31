@@ -19,7 +19,7 @@
             android:layout_marginRight="15dp"
             android:layout_weight="1.25"
             android:gravity="center"
-            android:text="भागवत कृपा नाम मंत्र पाने की विधी"
+            android:text="भगवत्कृपा नाममन्त्र प्राप्त करने की विधि"
             android:textColor="@color/colorText"
             android:textSize="25sp"
             android:textStyle="bold" />
