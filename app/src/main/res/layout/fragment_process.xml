@@ -21,7 +21,7 @@
             android:gravity="center"
             android:text="भगवत्कृपा नाममन्त्र प्राप्त करने की विधि"
             android:textColor="@color/colorText"
-            android:textSize="25sp"
+            android:textSize="20sp"
             android:textStyle="bold" />
 
         <ScrollView
